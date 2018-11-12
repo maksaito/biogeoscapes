@@ -19,7 +19,7 @@
         {% endfor -%}
         {%- if site.twitter_username -%}
           <li class="nav-item">
-            <a class="nav-link" href="https://twitter.com/{{ site.twitter_username }}"><img src="https://www.iconsdb.com/icons/preview/gray/twitter-xxl.png"/></a>
+            <a class="nav-link" href="https://twitter.com/{{ site.twitter_username }}"><img src="{{ "/assets/images/twitter-xxl.png" | relative_url }}"/></a>
           </li>
         {%- endif -%}
       </ul>
