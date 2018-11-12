@@ -22,6 +22,11 @@
             <a class="nav-link" target="_blank" href="https://twitter.com/{{ site.twitter_username }}"><img width="30" src="{{ "/assets/images/twitter-xxl.png" | relative_url }}"/></a>
           </li>
         {%- endif -%}
+        {%- if site.instagram_username -%}
+          <li class="nav-item">
+            <a class="nav-link" target="_blank" href="https://www.instagram.com/{{ site.instagram_username }}/"><img width="30" src="{{ "/assets/images/instagram.png" | relative_url }}"/></a>
+          </li>
+        {%- endif -%}
       </ul>
     </div>
   </div>
