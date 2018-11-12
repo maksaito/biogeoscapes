@@ -12,10 +12,3 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 [See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
-
-## License
-
-[See the license file.](./LICENSE.md)
