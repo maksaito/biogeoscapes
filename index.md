@@ -2,7 +2,7 @@
 layout: page
 title: Biogeoscapes
 ---
-<i><b> Biogeoscapes</b> - A Global Study of Ocean Metabolism Regulators and their Interactions with Nutrient Cycles on a Changing Planet</i><br>
+<i><b> Biogeoscapes</b> - Ocean Metabolism and Nutrient Cycles on a Changing Planet</i><br>
 <br>
 Contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscapes.org</a><br>
 <br>
