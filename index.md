@@ -2,6 +2,7 @@
 layout: page
 title: Biogeoscapes
 ---
+<img src="biogeoscapes-04_cropped.jpg">
 <i><b> Biogeoscapes</b> - Ocean Metabolism and Nutrient Cycles on a Changing Planet</i><br>
 <br>
 Contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscapes.org</a><br>
