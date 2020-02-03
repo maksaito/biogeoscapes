@@ -8,5 +8,8 @@ In an effort to explore and develop international community interest for a poten
 <br>
 To join the email list contact <a href="mailto:mzawoysky@whoi.edu">here</a><br>
 For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscapes.org</a><br>
+
+Updates:
+
 <br>
 <a href="https://twitter.com/intent/tweet?button_hashtag=biogeoscapes&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #biogeoscapes</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
